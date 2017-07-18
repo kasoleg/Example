@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="item_advert_text_padding">10dp</dimen>
+    <dimen name="item_advert_text">17sp</dimen>
+</resources>
